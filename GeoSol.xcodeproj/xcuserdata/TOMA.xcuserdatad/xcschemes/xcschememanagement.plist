@@ -4,10 +4,33 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>GeoSol.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
 		<key>SimpleGUI.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>E29DB4FB2090510000B26EC0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E29DB50F2090510100B26EC0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E29DB51A2090510100B26EC0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

@@ -3,12 +3,12 @@
 //  SimpleGUIUITests
 //
 //  Created by TOMA on 2018/04/25.
-//  Copyright © 2018 hajikkomende. All rights reserved.
+//  Copyright © 2018 TOMA. All rights reserved.
 //
 
 import XCTest
 
-class SimpleGUIUITests: XCTestCase {
+class GeoSolUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

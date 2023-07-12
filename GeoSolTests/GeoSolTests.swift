@@ -3,13 +3,13 @@
 //  SimpleGUITests
 //
 //  Created by TOMA on 2018/04/25.
-//  Copyright © 2018 hajikkomende. All rights reserved.
+//  Copyright © 2018 TOMA. All rights reserved.
 //
 
 import XCTest
-@testable import SimpleGUI
+@testable import GeoSol
 
-class SimpleGUITests: XCTestCase {
+class GeoSolTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

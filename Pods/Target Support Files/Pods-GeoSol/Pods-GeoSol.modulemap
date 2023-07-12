@@ -1,0 +1,6 @@
+framework module Pods_GeoSol {
+  umbrella header "Pods-GeoSol-umbrella.h"
+
+  export *
+  module * { export * }
+}
